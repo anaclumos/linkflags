@@ -35,7 +35,6 @@ a:has(i)::before {
 }
 
 article a[href^='http']::before {
-  content: '\00a0';
   background-color: var(--linkflags-color);
   height: 1.25em;
   width: 1.25em;
