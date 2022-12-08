@@ -1,0 +1,595 @@
+/* F-Droid -> fdroid.svg */
+article a[href*='f-droid.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fdroid.svg');
+  mask-image: url('https://simpleicons.org/icons/fdroid.svg');
+}
+
+/* F-Secure -> fsecure.svg */
+article a[href*='f-secure.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fsecure.svg');
+  mask-image: url('https://simpleicons.org/icons/fsecure.svg');
+}
+
+/* F1 -> f1.svg */
+article a[href*='formula1.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/f1.svg');
+  mask-image: url('https://simpleicons.org/icons/f1.svg');
+}
+
+/* F5 -> f5.svg */
+article a[href*='f5.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/f5.svg');
+  mask-image: url('https://simpleicons.org/icons/f5.svg');
+}
+
+/* Facebook -> facebook.svg */
+article a[href*='facebook.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/facebook.svg');
+  mask-image: url('https://simpleicons.org/icons/facebook.svg');
+}
+
+/* Facebook Gaming -> facebookgaming.svg */
+article a[href*='facebook.com/gaming']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/facebookgaming.svg');
+  mask-image: url('https://simpleicons.org/icons/facebookgaming.svg');
+}
+
+/* Facebook Live -> facebooklive.svg */
+article a[href*='facebook.com/live']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/facebooklive.svg');
+  mask-image: url('https://simpleicons.org/icons/facebooklive.svg');
+}
+
+/* FACEIT -> faceit.svg */
+article a[href*='faceit.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/faceit.svg');
+  mask-image: url('https://simpleicons.org/icons/faceit.svg');
+}
+
+/* Facepunch -> facepunch.svg */
+article a[href*='facepunch.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/facepunch.svg');
+  mask-image: url('https://simpleicons.org/icons/facepunch.svg');
+}
+
+/* Falcon -> falcon.svg */
+article a[href*='falconframework.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/falcon.svg');
+  mask-image: url('https://simpleicons.org/icons/falcon.svg');
+}
+
+/* FamPay -> fampay.svg */
+article a[href*='fampay.in']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fampay.svg');
+  mask-image: url('https://simpleicons.org/icons/fampay.svg');
+}
+
+/* Fandango -> fandango.svg */
+article a[href*='fandango.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fandango.svg');
+  mask-image: url('https://simpleicons.org/icons/fandango.svg');
+}
+
+/* Fandom -> fandom.svg */
+article a[href*='fandom.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fandom.svg');
+  mask-image: url('https://simpleicons.org/icons/fandom.svg');
+}
+
+/* Fanfou -> fanfou.svg */
+article a[href*='fanfou.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fanfou.svg');
+  mask-image: url('https://simpleicons.org/icons/fanfou.svg');
+}
+
+/* Fantom -> fantom.svg */
+article a[href*='fantom.foundation']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fantom.svg');
+  mask-image: url('https://simpleicons.org/icons/fantom.svg');
+}
+
+/* FARFETCH -> farfetch.svg */
+article a[href*='farfetch.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/farfetch.svg');
+  mask-image: url('https://simpleicons.org/icons/farfetch.svg');
+}
+
+/* FastAPI -> fastapi.svg */
+article a[href*='fastapi.tiangolo.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fastapi.svg');
+  mask-image: url('https://simpleicons.org/icons/fastapi.svg');
+}
+
+/* Fastify -> fastify.svg */
+article a[href*='fastify.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fastify.svg');
+  mask-image: url('https://simpleicons.org/icons/fastify.svg');
+}
+
+/* Fastlane -> fastlane.svg */
+article a[href*='fastlane.tools']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fastlane.svg');
+  mask-image: url('https://simpleicons.org/icons/fastlane.svg');
+}
+
+/* Fastly -> fastly.svg */
+article a[href*='fastly.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fastly.svg');
+  mask-image: url('https://simpleicons.org/icons/fastly.svg');
+}
+
+/* Fathom -> fathom.svg */
+article a[href*='usefathom.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fathom.svg');
+  mask-image: url('https://simpleicons.org/icons/fathom.svg');
+}
+
+/* Fauna -> fauna.svg */
+article a[href*='fauna.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fauna.svg');
+  mask-image: url('https://simpleicons.org/icons/fauna.svg');
+}
+
+/* Favro -> favro.svg */
+article a[href*='favro.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/favro.svg');
+  mask-image: url('https://simpleicons.org/icons/favro.svg');
+}
+
+/* FeatHub -> feathub.svg */
+article a[href*='feathub.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/feathub.svg');
+  mask-image: url('https://simpleicons.org/icons/feathub.svg');
+}
+
+/* FedEx -> fedex.svg */
+article a[href*='fedex.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fedex.svg');
+  mask-image: url('https://simpleicons.org/icons/fedex.svg');
+}
+
+/* Fedora -> fedora.svg */
+article a[href*='getfedora.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fedora.svg');
+  mask-image: url('https://simpleicons.org/icons/fedora.svg');
+}
+
+/* Feedly -> feedly.svg */
+article a[href*='feedly.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/feedly.svg');
+  mask-image: url('https://simpleicons.org/icons/feedly.svg');
+}
+
+/* Ferrari -> ferrari.svg */
+article a[href*='ferrari.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/ferrari.svg');
+  mask-image: url('https://simpleicons.org/icons/ferrari.svg');
+}
+
+/* Ferrari N.V. -> ferrarinv.svg */
+article a[href*='ferrarinventures.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/ferrarinv.svg');
+  mask-image: url('https://simpleicons.org/icons/ferrarinv.svg');
+}
+
+/* FFmpeg -> ffmpeg.svg */
+article a[href*='ffmpeg.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/ffmpeg.svg');
+  mask-image: url('https://simpleicons.org/icons/ffmpeg.svg');
+}
+
+/* Fiat -> fiat.svg */
+article a[href*='fiat.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fiat.svg');
+  mask-image: url('https://simpleicons.org/icons/fiat.svg');
+}
+
+/* Fido Alliance -> fidoalliance.svg */
+article a[href*='fidoalliance.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fidoalliance.svg');
+  mask-image: url('https://simpleicons.org/icons/fidoalliance.svg');
+}
+
+/* FIFA -> fifa.svg */
+article a[href*='fifa.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fifa.svg');
+  mask-image: url('https://simpleicons.org/icons/fifa.svg');
+}
+
+/* Figma -> figma.svg */
+article a[href*='figma.com']::before,
+article a[href*='medium.com/figma-design']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/figma.svg');
+  mask-image: url('https://simpleicons.org/icons/figma.svg');
+}
+
+/* figshare -> figshare.svg */
+article a[href*='figshare.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/figshare.svg');
+  mask-image: url('https://simpleicons.org/icons/figshare.svg');
+}
+
+/* Fila -> fila.svg */
+article a[href*='fila.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fila.svg');
+  mask-image: url('https://simpleicons.org/icons/fila.svg');
+}
+
+/* Files -> files.svg */
+article a[href*='files.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/files.svg');
+  mask-image: url('https://simpleicons.org/icons/files.svg');
+}
+
+/* FileZilla -> filezilla.svg */
+article a[href*='filezilla-project.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/filezilla.svg');
+  mask-image: url('https://simpleicons.org/icons/filezilla.svg');
+}
+
+/* Fing -> fing.svg */
+article a[href*='fing.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fing.svg');
+  mask-image: url('https://simpleicons.org/icons/fing.svg');
+}
+
+/* Firebase -> firebase.svg */
+article a[href*='firebase.google']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/firebase.svg');
+  mask-image: url('https://simpleicons.org/icons/firebase.svg');
+}
+
+/* Firefox -> firefox.svg */
+article a[href*='mozilla.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/firefox.svg');
+  mask-image: url('https://simpleicons.org/icons/firefox.svg');
+}
+
+/* Firefox Browser -> firefoxbrowser.svg */
+article a[href*='firefox.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/firefoxbrowser.svg');
+  mask-image: url('https://simpleicons.org/icons/firefoxbrowser.svg');
+}
+
+/* Fireship -> fireship.svg */
+article a[href*='fireship.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fireship.svg');
+  mask-image: url('https://simpleicons.org/icons/fireship.svg');
+}
+
+/* Firewalla -> firewalla.svg */
+article a[href*='firewalla.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/firewalla.svg');
+  mask-image: url('https://simpleicons.org/icons/firewalla.svg');
+}
+
+/* FIRST -> first.svg */
+article a[href*='firstinspires.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/first.svg');
+  mask-image: url('https://simpleicons.org/icons/first.svg');
+}
+
+/* Fitbit -> fitbit.svg */
+article a[href*='fitbit.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fitbit.svg');
+  mask-image: url('https://simpleicons.org/icons/fitbit.svg');
+}
+
+/* FITE -> fite.svg */
+article a[href*='fite.tv']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fite.svg');
+  mask-image: url('https://simpleicons.org/icons/fite.svg');
+}
+
+/* FiveM -> fivem.svg */
+article a[href*='fivem.net']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fivem.svg');
+  mask-image: url('https://simpleicons.org/icons/fivem.svg');
+}
+
+/* Fiverr -> fiverr.svg */
+article a[href*='fiverr.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fiverr.svg');
+  mask-image: url('https://simpleicons.org/icons/fiverr.svg');
+}
+
+/* Flask -> flask.svg */
+article a[href*='palletsprojects.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/flask.svg');
+  mask-image: url('https://simpleicons.org/icons/flask.svg');
+}
+
+/* Flat -> flat.svg */
+article a[href*='flat.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/flat.svg');
+  mask-image: url('https://simpleicons.org/icons/flat.svg');
+}
+
+/* Flathub -> flathub.svg */
+article a[href*='flathub.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/flathub.svg');
+  mask-image: url('https://simpleicons.org/icons/flathub.svg');
+}
+
+/* Flatpak -> flatpak.svg */
+article a[href*='flatpak.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/flatpak.svg');
+  mask-image: url('https://simpleicons.org/icons/flatpak.svg');
+}
+
+/* Flattr -> flattr.svg */
+article a[href*='flattr.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/flattr.svg');
+  mask-image: url('https://simpleicons.org/icons/flattr.svg');
+}
+
+/* Flickr -> flickr.svg */
+article a[href*='flickr.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/flickr.svg');
+  mask-image: url('https://simpleicons.org/icons/flickr.svg');
+}
+
+/* Flipboard -> flipboard.svg */
+article a[href*='flipboard.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/flipboard.svg');
+  mask-image: url('https://simpleicons.org/icons/flipboard.svg');
+}
+
+/* Flipkart -> flipkart.svg */
+article a[href*='flipkart.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/flipkart.svg');
+  mask-image: url('https://simpleicons.org/icons/flipkart.svg');
+}
+
+/* Floatplane -> floatplane.svg */
+article a[href*='floatplane.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/floatplane.svg');
+  mask-image: url('https://simpleicons.org/icons/floatplane.svg');
+}
+
+/* Flood -> flood.svg */
+article a[href*='flood.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/flood.svg');
+  mask-image: url('https://simpleicons.org/icons/flood.svg');
+}
+
+/* Fluent Bit -> fluentbit.svg */
+article a[href*='fluentbit.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fluentbit.svg');
+  mask-image: url('https://simpleicons.org/icons/fluentbit.svg');
+}
+
+/* Fluentd -> fluentd.svg */
+article a[href*='fluentd.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fluentd.svg');
+  mask-image: url('https://simpleicons.org/icons/fluentd.svg');
+}
+
+/* Flutter -> flutter.svg */
+article a[href*='flutter.dev']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/flutter.svg');
+  mask-image: url('https://simpleicons.org/icons/flutter.svg');
+}
+
+/* Flyway -> flyway.svg */
+article a[href*='flywaydb.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/flyway.svg');
+  mask-image: url('https://simpleicons.org/icons/flyway.svg');
+}
+
+/* FMOD -> fmod.svg */
+article a[href*='fmod.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fmod.svg');
+  mask-image: url('https://simpleicons.org/icons/fmod.svg');
+}
+
+/* Fnac -> fnac.svg */
+article a[href*='fnac.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fnac.svg');
+  mask-image: url('https://simpleicons.org/icons/fnac.svg');
+}
+
+/* Folium -> folium.svg */
+article a[href*='python-visualization.github.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/folium.svg');
+  mask-image: url('https://simpleicons.org/icons/folium.svg');
+}
+
+/* Fonoma -> fonoma.svg */
+article a[href*='fonoma.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fonoma.svg');
+  mask-image: url('https://simpleicons.org/icons/fonoma.svg');
+}
+
+/* Font Awesome -> fontawesome.svg */
+article a[href*='fontawesome.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fontawesome.svg');
+  mask-image: url('https://simpleicons.org/icons/fontawesome.svg');
+}
+
+/* FontBase -> fontbase.svg */
+article a[href*='fontba.se']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fontbase.svg');
+  mask-image: url('https://simpleicons.org/icons/fontbase.svg');
+}
+
+/* foodpanda -> foodpanda.svg */
+article a[href*='foodpanda.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/foodpanda.svg');
+  mask-image: url('https://simpleicons.org/icons/foodpanda.svg');
+}
+
+/* Ford -> ford.svg */
+article a[href*='ford.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/ford.svg');
+  mask-image: url('https://simpleicons.org/icons/ford.svg');
+}
+
+/* Forestry -> forestry.svg */
+article a[href*='forestry.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/forestry.svg');
+  mask-image: url('https://simpleicons.org/icons/forestry.svg');
+}
+
+/* Formstack -> formstack.svg */
+article a[href*='formstack.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/formstack.svg');
+  mask-image: url('https://simpleicons.org/icons/formstack.svg');
+}
+
+/* Fortinet -> fortinet.svg */
+article a[href*='fortinet.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fortinet.svg');
+  mask-image: url('https://simpleicons.org/icons/fortinet.svg');
+}
+
+/* Fortran -> fortran.svg */
+article a[href*='fortran-lang.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fortran.svg');
+  mask-image: url('https://simpleicons.org/icons/fortran.svg');
+}
+
+/* Fossa -> fossa.svg */
+article a[href*='fossa.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fossa.svg');
+  mask-image: url('https://simpleicons.org/icons/fossa.svg');
+}
+
+/* Fossil SCM -> fossilscm.svg */
+article a[href*='fossil-scm.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fossilscm.svg');
+  mask-image: url('https://simpleicons.org/icons/fossilscm.svg');
+}
+
+/* Foursquare -> foursquare.svg */
+article a[href*='foursquare.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/foursquare.svg');
+  mask-image: url('https://simpleicons.org/icons/foursquare.svg');
+}
+
+/* Foursquare City Guide -> foursquarecityguide.svg */
+article a[href*='foursquare.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/foursquarecityguide.svg');
+  mask-image: url('https://simpleicons.org/icons/foursquarecityguide.svg');
+}
+
+/* FOX -> fox.svg */
+article a[href*='fox.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fox.svg');
+  mask-image: url('https://simpleicons.org/icons/fox.svg');
+}
+
+/* Foxtel -> foxtel.svg */
+article a[href*='foxtel.com.au']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/foxtel.svg');
+  mask-image: url('https://simpleicons.org/icons/foxtel.svg');
+}
+
+/* Fozzy -> fozzy.svg */
+article a[href*='fozzy.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fozzy.svg');
+  mask-image: url('https://simpleicons.org/icons/fozzy.svg');
+}
+
+/* Framer -> framer.svg */
+article a[href*='framer.cloud']::before,
+article a[href*='framer.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/framer.svg');
+  mask-image: url('https://simpleicons.org/icons/framer.svg');
+}
+
+/* Framework7 -> framework7.svg */
+article a[href*='framework7.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/framework7.svg');
+  mask-image: url('https://simpleicons.org/icons/framework7.svg');
+}
+
+/* Franprix -> franprix.svg */
+article a[href*='franprix.fr']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/franprix.svg');
+  mask-image: url('https://simpleicons.org/icons/franprix.svg');
+}
+
+/* Fraunhofer-Gesellschaft -> fraunhofergesellschaft.svg */
+article a[href*='fraunhofer.de']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fraunhofergesellschaft.svg');
+  mask-image: url('https://simpleicons.org/icons/fraunhofergesellschaft.svg');
+}
+
+/* FreeBSD -> freebsd.svg */
+article a[href*='freebsd.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/freebsd.svg');
+  mask-image: url('https://simpleicons.org/icons/freebsd.svg');
+}
+
+/* freeCodeCamp -> freecodecamp.svg */
+article a[href*='freecodecamp.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/freecodecamp.svg');
+  mask-image: url('https://simpleicons.org/icons/freecodecamp.svg');
+}
+
+/* freedesktop.org -> freedesktopdotorg.svg */
+article a[href*='freedesktop.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/freedesktopdotorg.svg');
+  mask-image: url('https://simpleicons.org/icons/freedesktopdotorg.svg');
+}
+
+/* Freelancer -> freelancer.svg */
+article a[href*='freelancer.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/freelancer.svg');
+  mask-image: url('https://simpleicons.org/icons/freelancer.svg');
+}
+
+/* FreeNAS -> freenas.svg */
+article a[href*='freenas.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/freenas.svg');
+  mask-image: url('https://simpleicons.org/icons/freenas.svg');
+}
+
+/* Frontend Mentor -> frontendmentor.svg */
+article a[href*='frontendmentor.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/frontendmentor.svg');
+  mask-image: url('https://simpleicons.org/icons/frontendmentor.svg');
+}
+
+/* Fuga Cloud -> fugacloud.svg */
+article a[href*='fuga.cloud']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fugacloud.svg');
+  mask-image: url('https://simpleicons.org/icons/fugacloud.svg');
+}
+
+/* Fujifilm -> fujifilm.svg */
+article a[href*='fujifilm.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fujifilm.svg');
+  mask-image: url('https://simpleicons.org/icons/fujifilm.svg');
+}
+
+/* Fujitsu -> fujitsu.svg */
+article a[href*='fujitsu.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/fujitsu.svg');
+  mask-image: url('https://simpleicons.org/icons/fujitsu.svg');
+}
+
+/* Funimation -> funimation.svg */
+article a[href*='funimation.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/funimation.svg');
+  mask-image: url('https://simpleicons.org/icons/funimation.svg');
+}
+
+/* Fur Affinity -> furaffinity.svg */
+article a[href*='furaffinity.net']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/furaffinity.svg');
+  mask-image: url('https://simpleicons.org/icons/furaffinity.svg');
+}
+
+/* Furry Network -> furrynetwork.svg */
+article a[href*='furrynetwork.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/furrynetwork.svg');
+  mask-image: url('https://simpleicons.org/icons/furrynetwork.svg');
+}
+
+/* FutureLearn -> futurelearn.svg */
+article a[href*='futurelearn.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/futurelearn.svg');
+  mask-image: url('https://simpleicons.org/icons/futurelearn.svg');
+}

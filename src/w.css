@@ -1,0 +1,500 @@
+/* W3C -> w3c.svg */
+article a[href*='w3.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/w3c.svg');
+  mask-image: url('https://simpleicons.org/icons/w3c.svg');
+}
+
+/* Wacom -> wacom.svg */
+article a[href*='wacom.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wacom.svg');
+  mask-image: url('https://simpleicons.org/icons/wacom.svg');
+}
+
+/* Wagtail -> wagtail.svg */
+article a[href*='wagtail.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wagtail.svg');
+  mask-image: url('https://simpleicons.org/icons/wagtail.svg');
+}
+
+/* Wails -> wails.svg */
+article a[href*='wails.app']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wails.svg');
+  mask-image: url('https://simpleicons.org/icons/wails.svg');
+}
+
+/* WakaTime -> wakatime.svg */
+article a[href*='wakatime.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wakatime.svg');
+  mask-image: url('https://simpleicons.org/icons/wakatime.svg');
+}
+
+/* WALKMAN -> walkman.svg */
+article a[href*='walkman.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/walkman.svg');
+  mask-image: url('https://simpleicons.org/icons/walkman.svg');
+}
+
+/* Wallabag -> wallabag.svg */
+article a[href*='wallabag.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wallabag.svg');
+  mask-image: url('https://simpleicons.org/icons/wallabag.svg');
+}
+
+/* Walmart -> walmart.svg */
+article a[href*='walmart.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/walmart.svg');
+  mask-image: url('https://simpleicons.org/icons/walmart.svg');
+}
+
+/* Wantedly -> wantedly.svg */
+article a[href*='wantedly.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wantedly.svg');
+  mask-image: url('https://simpleicons.org/icons/wantedly.svg');
+}
+
+/* Wappalyzer -> wappalyzer.svg */
+article a[href*='wappalyzer.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wappalyzer.svg');
+  mask-image: url('https://simpleicons.org/icons/wappalyzer.svg');
+}
+
+/* Warner Bros. -> warnerbros.svg */
+article a[href*='warnerbros.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/warnerbros.svg');
+  mask-image: url('https://simpleicons.org/icons/warnerbros.svg');
+}
+
+/* Warp -> warp.svg */
+article a[href*='warp.dev']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/warp.svg');
+  mask-image: url('https://simpleicons.org/icons/warp.svg');
+}
+
+/* wasmCloud -> wasmcloud.svg */
+article a[href*='wasmcloud.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wasmcloud.svg');
+  mask-image: url('https://simpleicons.org/icons/wasmcloud.svg');
+}
+
+/* Wasmer -> wasmer.svg */
+article a[href*='wasmer.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wasmer.svg');
+  mask-image: url('https://simpleicons.org/icons/wasmer.svg');
+}
+
+/* Wattpad -> wattpad.svg */
+article a[href*='wattpad.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wattpad.svg');
+  mask-image: url('https://simpleicons.org/icons/wattpad.svg');
+}
+
+/* Waze -> waze.svg */
+article a[href*='waze.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/waze.svg');
+  mask-image: url('https://simpleicons.org/icons/waze.svg');
+}
+
+/* Wear OS -> wearos.svg */
+article a[href*='wearos.google']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wearos.svg');
+  mask-image: url('https://simpleicons.org/icons/wearos.svg');
+}
+
+/* Weasyl -> weasyl.svg */
+article a[href*='weasyl.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/weasyl.svg');
+  mask-image: url('https://simpleicons.org/icons/weasyl.svg');
+}
+
+/* Web3.js -> web3dotjs.svg */
+article a[href*='web3js.readthedocs.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/web3dotjs.svg');
+  mask-image: url('https://simpleicons.org/icons/web3dotjs.svg');
+}
+
+/* WebAssembly -> webassembly.svg */
+article a[href*='webassembly.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/webassembly.svg');
+  mask-image: url('https://simpleicons.org/icons/webassembly.svg');
+}
+
+/* WebAuthn -> webauthn.svg */
+article a[href*='webauthn.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/webauthn.svg');
+  mask-image: url('https://simpleicons.org/icons/webauthn.svg');
+}
+
+/* webcomponents.org -> webcomponentsdotorg.svg */
+article a[href*='webcomponents.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/webcomponentsdotorg.svg');
+  mask-image: url('https://simpleicons.org/icons/webcomponentsdotorg.svg');
+}
+
+/* WebdriverIO -> webdriverio.svg */
+article a[href*='webdriver.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/webdriverio.svg');
+  mask-image: url('https://simpleicons.org/icons/webdriverio.svg');
+}
+
+/* Webflow -> webflow.svg */
+article a[href*='webflow.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/webflow.svg');
+  mask-image: url('https://simpleicons.org/icons/webflow.svg');
+}
+
+/* WebGL -> webgl.svg */
+article a[href*='webgl.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/webgl.svg');
+  mask-image: url('https://simpleicons.org/icons/webgl.svg');
+}
+
+/* webhint -> webhint.svg */
+article a[href*='webhint.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/webhint.svg');
+  mask-image: url('https://simpleicons.org/icons/webhint.svg');
+}
+
+/* Weblate -> weblate.svg */
+article a[href*='weblate.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/weblate.svg');
+  mask-image: url('https://simpleicons.org/icons/weblate.svg');
+}
+
+/* Webmin -> webmin.svg */
+article a[href*='webmin.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/webmin.svg');
+  mask-image: url('https://simpleicons.org/icons/webmin.svg');
+}
+
+/* WebMoney -> webmoney.svg */
+article a[href*='webmoney.ru']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/webmoney.svg');
+  mask-image: url('https://simpleicons.org/icons/webmoney.svg');
+}
+
+/* Webpack -> webpack.svg */
+article a[href*='webpack.js.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/webpack.svg');
+  mask-image: url('https://simpleicons.org/icons/webpack.svg');
+}
+
+/* WebRTC -> webrtc.svg */
+article a[href*='webrtc.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/webrtc.svg');
+  mask-image: url('https://simpleicons.org/icons/webrtc.svg');
+}
+
+/* WebStorm -> webstorm.svg */
+article a[href*='jetbrains.com/webstorm']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/webstorm.svg');
+  mask-image: url('https://simpleicons.org/icons/webstorm.svg');
+}
+
+/* WEBTOON -> webtoon.svg */
+article a[href*='webtoons.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/webtoon.svg');
+  mask-image: url('https://simpleicons.org/icons/webtoon.svg');
+}
+
+/* WeChat -> wechat.svg */
+article a[href*='wechat.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wechat.svg');
+  mask-image: url('https://simpleicons.org/icons/wechat.svg');
+}
+
+/* WeGame -> wegame.svg */
+article a[href*='wegame.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wegame.svg');
+  mask-image: url('https://simpleicons.org/icons/wegame.svg');
+}
+
+/* Weights & Biases -> weightsandbiases.svg */
+article a[href*='wandb.ai']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/weightsandbiases.svg');
+  mask-image: url('https://simpleicons.org/icons/weightsandbiases.svg');
+}
+
+/* Welcome to the Jungle -> welcometothejungle.svg */
+article a[href*='welcometothejungle.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/welcometothejungle.svg');
+  mask-image: url('https://simpleicons.org/icons/welcometothejungle.svg');
+}
+
+/* WEMO -> wemo.svg */
+article a[href*='belkin.com/us/wemo']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wemo.svg');
+  mask-image: url('https://simpleicons.org/icons/wemo.svg');
+}
+
+/* Western Digital -> westerndigital.svg */
+article a[href*='westerndigital.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/westerndigital.svg');
+  mask-image: url('https://simpleicons.org/icons/westerndigital.svg');
+}
+
+/* WeTransfer -> wetransfer.svg */
+article a[href*='wetransfer.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wetransfer.svg');
+  mask-image: url('https://simpleicons.org/icons/wetransfer.svg');
+}
+
+/* WhatsApp -> whatsapp.svg */
+article a[href*='whatsapp.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/whatsapp.svg');
+  mask-image: url('https://simpleicons.org/icons/whatsapp.svg');
+}
+
+/* When I Work -> wheniwork.svg */
+article a[href*='wheniwork.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wheniwork.svg');
+  mask-image: url('https://simpleicons.org/icons/wheniwork.svg');
+}
+
+/* WhiteSource -> whitesource.svg */
+article a[href*='whitesourcesoftware.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/whitesource.svg');
+  mask-image: url('https://simpleicons.org/icons/whitesource.svg');
+}
+
+/* Wii -> wii.svg */
+article a[href*='wii.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wii.svg');
+  mask-image: url('https://simpleicons.org/icons/wii.svg');
+}
+
+/* Wii U -> wiiu.svg */
+article a[href*='wiiu.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wiiu.svg');
+  mask-image: url('https://simpleicons.org/icons/wiiu.svg');
+}
+
+/* Wiki.js -> wikidotjs.svg */
+article a[href*='docs.requarks.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wikidotjs.svg');
+  mask-image: url('https://simpleicons.org/icons/wikidotjs.svg');
+}
+
+/* Wikidata -> wikidata.svg */
+article a[href*='wikidata.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wikidata.svg');
+  mask-image: url('https://simpleicons.org/icons/wikidata.svg');
+}
+
+/* Wikimedia Commons -> wikimediacommons.svg */
+article a[href*='commons.wikimedia.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wikimediacommons.svg');
+  mask-image: url('https://simpleicons.org/icons/wikimediacommons.svg');
+}
+
+/* Wikipedia -> wikipedia.svg */
+article a[href*='wikipedia.org']::before,
+article a[href*='wikimedia.org']::before,
+article a[href*='wiktionary.org']::before,
+article a[href*='wikibooks.org']::before,
+article a[href*='wikinews.org']::before,
+article a[href*='wikisource.org']::before,
+article a[href*='wikiversity.org']::before,
+article a[href*='wikidata.org']::before,
+article a[href*='wikimediafoundation.org']::before,
+article a[href*='wikispecies.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wikipedia.svg');
+  mask-image: url('https://simpleicons.org/icons/wikipedia.svg');
+}
+
+/* Wikiquote -> wikiquote.svg */
+article a[href*='wikiquote.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wikiquote.svg');
+  mask-image: url('https://simpleicons.org/icons/wikiquote.svg');
+}
+
+/* Wikivoyage -> wikivoyage.svg */
+article a[href*='wikivoyage.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wikivoyage.svg');
+  mask-image: url('https://simpleicons.org/icons/wikivoyage.svg');
+}
+
+/* Winamp -> winamp.svg */
+article a[href*='winamp.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/winamp.svg');
+  mask-image: url('https://simpleicons.org/icons/winamp.svg');
+}
+
+/* Windi CSS -> windicss.svg */
+article a[href*='windicss.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/windicss.svg');
+  mask-image: url('https://simpleicons.org/icons/windicss.svg');
+}
+
+/* Windows -> windows.svg */
+article a[href*='microsoft.com/windows']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/windows.svg');
+  mask-image: url('https://simpleicons.org/icons/windows.svg');
+}
+
+/* Windows 11 -> windows11.svg */
+article a[href*='microsoft.com/windows/windows-11']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/windows11.svg');
+  mask-image: url('https://simpleicons.org/icons/windows11.svg');
+}
+
+/* Windows 95 -> windows95.svg */
+article a[href*='microsoft.com/windows/windows-95']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/windows95.svg');
+  mask-image: url('https://simpleicons.org/icons/windows95.svg');
+}
+
+/* Windows Terminal -> windowsterminal.svg */
+article a[href*='microsoft.com/windows/terminal']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/windowsterminal.svg');
+  mask-image: url('https://simpleicons.org/icons/windowsterminal.svg');
+}
+
+/* Windows XP -> windowsxp.svg */
+article a[href*='microsoft.com/windows/windows-xp']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/windowsxp.svg');
+  mask-image: url('https://simpleicons.org/icons/windowsxp.svg');
+}
+
+/* Winmate -> winmate.svg */
+article a[href*='winmate.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/winmate.svg');
+  mask-image: url('https://simpleicons.org/icons/winmate.svg');
+}
+
+/* Wipro -> wipro.svg */
+article a[href*='wipro.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wipro.svg');
+  mask-image: url('https://simpleicons.org/icons/wipro.svg');
+}
+
+/* Wire -> wire.svg */
+article a[href*='wire.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wire.svg');
+  mask-image: url('https://simpleicons.org/icons/wire.svg');
+}
+
+/* WireGuard -> wireguard.svg */
+article a[href*='wireguard.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wireguard.svg');
+  mask-image: url('https://simpleicons.org/icons/wireguard.svg');
+}
+
+/* Wireshark -> wireshark.svg */
+article a[href*='wireshark.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wireshark.svg');
+  mask-image: url('https://simpleicons.org/icons/wireshark.svg');
+}
+
+/* Wise -> wise.svg */
+article a[href*='wise.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wise.svg');
+  mask-image: url('https://simpleicons.org/icons/wise.svg');
+}
+
+/* Wish -> wish.svg */
+article a[href*='wish.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wish.svg');
+  mask-image: url('https://simpleicons.org/icons/wish.svg');
+}
+
+/* Wistia -> wistia.svg */
+article a[href*='wistia.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wistia.svg');
+  mask-image: url('https://simpleicons.org/icons/wistia.svg');
+}
+
+/* Wix -> wix.svg */
+article a[href*='wix.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wix.svg');
+  mask-image: url('https://simpleicons.org/icons/wix.svg');
+}
+
+/* Wizz Air -> wizzair.svg */
+article a[href*='wizzair.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wizzair.svg');
+  mask-image: url('https://simpleicons.org/icons/wizzair.svg');
+}
+
+/* Wolfram -> wolfram.svg */
+article a[href*='wolfram.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wolfram.svg');
+  mask-image: url('https://simpleicons.org/icons/wolfram.svg');
+}
+
+/* Wolfram Language -> wolframlanguage.svg */
+article a[href*='wolfram.com/language']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wolframlanguage.svg');
+  mask-image: url('https://simpleicons.org/icons/wolframlanguage.svg');
+}
+
+/* Wolfram Mathematica -> wolframmathematica.svg */
+article a[href*='wolfram.com/mathematica']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wolframmathematica.svg');
+  mask-image: url('https://simpleicons.org/icons/wolframmathematica.svg');
+}
+
+/* Woo -> woo.svg */
+article a[href*='woo.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/woo.svg');
+  mask-image: url('https://simpleicons.org/icons/woo.svg');
+}
+
+/* WooCommerce -> woocommerce.svg */
+article a[href*='woocommerce.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/woocommerce.svg');
+  mask-image: url('https://simpleicons.org/icons/woocommerce.svg');
+}
+
+/* WordPress -> wordpress.svg */
+article a[href*='wordpress.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wordpress.svg');
+  mask-image: url('https://simpleicons.org/icons/wordpress.svg');
+}
+
+/* Workplace -> workplace.svg */
+article a[href*='workplace.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/workplace.svg');
+  mask-image: url('https://simpleicons.org/icons/workplace.svg');
+}
+
+/* World Health Organization -> worldhealthorganization.svg */
+article a[href*='who.int']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/worldhealthorganization.svg');
+  mask-image: url('https://simpleicons.org/icons/worldhealthorganization.svg');
+}
+
+/* WP Engine -> wpengine.svg */
+article a[href*='wpengine.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wpengine.svg');
+  mask-image: url('https://simpleicons.org/icons/wpengine.svg');
+}
+
+/* WP Rocket -> wprocket.svg */
+article a[href*='wp-rocket.me']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wprocket.svg');
+  mask-image: url('https://simpleicons.org/icons/wprocket.svg');
+}
+
+/* WPExplorer -> wpexplorer.svg */
+article a[href*='wpexplorer.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wpexplorer.svg');
+  mask-image: url('https://simpleicons.org/icons/wpexplorer.svg');
+}
+
+/* write.as -> writedotas.svg */
+article a[href*='write.as']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/writedotas.svg');
+  mask-image: url('https://simpleicons.org/icons/writedotas.svg');
+}
+
+/* WWE -> wwe.svg */
+article a[href*='wwe.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wwe.svg');
+  mask-image: url('https://simpleicons.org/icons/wwe.svg');
+}
+
+/* Wwise -> wwise.svg */
+article a[href*='wwise.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/wwise.svg');
+  mask-image: url('https://simpleicons.org/icons/wwise.svg');
+}

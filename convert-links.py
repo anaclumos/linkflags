@@ -38,7 +38,9 @@ for file in os.listdir("src/icons"):
                 comment = comment[: comment.index(".svg")]
                 comment.strip()
                 # replace the data with the file path
-                data = data.replace(svg, url + comment + ".svg")
+                to_replace = url + comment + '.svg"'
+                to_replace.replace(" ", "")
+                data = data.replace(svg, to_replace)
         # write the file
         with open(os.path.join("src", file), "w") as f:
             f.write(data)

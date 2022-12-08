@@ -1,0 +1,59 @@
+/* .ENV -> dotenv.svg */
+article a[href*='dotenv.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/dotenv.svg');
+  mask-image: url('https://simpleicons.org/icons/dotenv.svg');
+}
+
+/* .NET -> dotnet.svg */
+article a[href*='dotnet.microsoft.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/dotnet.svg');
+  mask-image: url('https://simpleicons.org/icons/dotnet.svg');
+}
+
+/* /e/ -> e.svg */
+article a[href*='e.foundation']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/e.svg');
+  mask-image: url('https://simpleicons.org/icons/e.svg');
+}
+
+/* 1001Tracklists -> 1001tracklists.svg */
+article a[href*='1001tracklists.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/1001tracklists.svg');
+  mask-image: url('https://simpleicons.org/icons/1001tracklists.svg');
+}
+
+/* 1Password -> 1password.svg */
+article a[href*='1password.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/1password.svg');
+  mask-image: url('https://simpleicons.org/icons/1password.svg');
+}
+
+/* 3M -> 3m.svg */
+article a[href*='3m.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/3m.svg');
+  mask-image: url('https://simpleicons.org/icons/3m.svg');
+}
+
+/* 42 -> 42.svg */
+article a[href*='42.fr']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/42.svg');
+  mask-image: url('https://simpleicons.org/icons/42.svg');
+}
+
+/* 4chan -> 4chan.svg */
+article a[href*='4chan.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/4chan.svg');
+  mask-image: url('https://simpleicons.org/icons/4chan.svg');
+}
+
+/* 4D -> 4d.svg */
+article a[href*='4d.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/4d.svg');
+  mask-image: url('https://simpleicons.org/icons/4d.svg');
+}
+
+/* 500px -> 500px.svg */
+article a[href*='500px.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/500px.svg');
+  mask-image: url('https://simpleicons.org/icons/500px.svg');
+}

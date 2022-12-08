@@ -1,0 +1,427 @@
+/* O'Reilly -> oreilly.svg */
+article a[href*='oreilly.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/oreilly.svg');
+  mask-image: url('https://simpleicons.org/icons/oreilly.svg');
+}
+
+/* OBS Studio -> obsstudio.svg */
+article a[href*='obsproject.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/obsstudio.svg');
+  mask-image: url('https://simpleicons.org/icons/obsstudio.svg');
+}
+
+/* Observable -> observable.svg */
+article a[href*='observablehq.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/observable.svg');
+  mask-image: url('https://simpleicons.org/icons/observable.svg');
+}
+
+/* Obsidian -> obsidian.svg */
+article a[href*='obsidian.md']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/obsidian.svg');
+  mask-image: url('https://simpleicons.org/icons/obsidian.svg');
+}
+
+/* OCaml -> ocaml.svg */
+article a[href*='ocaml.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/ocaml.svg');
+  mask-image: url('https://simpleicons.org/icons/ocaml.svg');
+}
+
+/* Octane Render -> octanerender.svg */
+article a[href*='octane-render.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/octanerender.svg');
+  mask-image: url('https://simpleicons.org/icons/octanerender.svg');
+}
+
+/* Octave -> octave.svg */
+article a[href*='octave.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/octave.svg');
+  mask-image: url('https://simpleicons.org/icons/octave.svg');
+}
+
+/* OctoPrint -> octoprint.svg */
+article a[href*='octoprint.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/octoprint.svg');
+  mask-image: url('https://simpleicons.org/icons/octoprint.svg');
+}
+
+/* Octopus Deploy -> octopusdeploy.svg */
+article a[href*='octopus.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/octopusdeploy.svg');
+  mask-image: url('https://simpleicons.org/icons/octopusdeploy.svg');
+}
+
+/* Oculus -> oculus.svg */
+article a[href*='oculus.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/oculus.svg');
+  mask-image: url('https://simpleicons.org/icons/oculus.svg');
+}
+
+/* Odnoklassniki -> odnoklassniki.svg */
+article a[href*='ok.ru']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/odnoklassniki.svg');
+  mask-image: url('https://simpleicons.org/icons/odnoklassniki.svg');
+}
+
+/* Odysee -> odysee.svg */
+article a[href*='odysee.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/odysee.svg');
+  mask-image: url('https://simpleicons.org/icons/odysee.svg');
+}
+
+/* Oh Dear -> ohdear.svg */
+article a[href*='ohdear.app']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/ohdear.svg');
+  mask-image: url('https://simpleicons.org/icons/ohdear.svg');
+}
+
+/* okcupid -> okcupid.svg */
+article a[href*='okcupid.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/okcupid.svg');
+  mask-image: url('https://simpleicons.org/icons/okcupid.svg');
+}
+
+/* Okta -> okta.svg */
+article a[href*='okta.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/okta.svg');
+  mask-image: url('https://simpleicons.org/icons/okta.svg');
+}
+
+/* OnePlus -> oneplus.svg */
+article a[href*='oneplus.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/oneplus.svg');
+  mask-image: url('https://simpleicons.org/icons/oneplus.svg');
+}
+
+/* OnlyFans -> onlyfans.svg */
+article a[href*='onlyfans.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/onlyfans.svg');
+  mask-image: url('https://simpleicons.org/icons/onlyfans.svg');
+}
+
+/* ONLYOFFICE -> onlyoffice.svg */
+article a[href*='onlyoffice.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/onlyoffice.svg');
+  mask-image: url('https://simpleicons.org/icons/onlyoffice.svg');
+}
+
+/* ONNX -> onnx.svg */
+article a[href*='onnx.ai']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/onnx.svg');
+  mask-image: url('https://simpleicons.org/icons/onnx.svg');
+}
+
+/* OnStar -> onstar.svg */
+article a[href*='onstar.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/onstar.svg');
+  mask-image: url('https://simpleicons.org/icons/onstar.svg');
+}
+
+/* Opel -> opel.svg */
+article a[href*='opel.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/opel.svg');
+  mask-image: url('https://simpleicons.org/icons/opel.svg');
+}
+
+/* Open Access -> openaccess.svg */
+article a[href*='openaccess.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/openaccess.svg');
+  mask-image: url('https://simpleicons.org/icons/openaccess.svg');
+}
+
+/* Open Badges -> openbadges.svg */
+article a[href*='openbadges.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/openbadges.svg');
+  mask-image: url('https://simpleicons.org/icons/openbadges.svg');
+}
+
+/* Open Bug Bounty -> openbugbounty.svg */
+article a[href*='openbugbounty.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/openbugbounty.svg');
+  mask-image: url('https://simpleicons.org/icons/openbugbounty.svg');
+}
+
+/* Open Collective -> opencollective.svg */
+article a[href*='opencollective.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/opencollective.svg');
+  mask-image: url('https://simpleicons.org/icons/opencollective.svg');
+}
+
+/* Open Containers Initiative -> opencontainersinitiative.svg */
+article a[href*='opencontainers.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/opencontainersinitiative.svg');
+  mask-image: url('https://simpleicons.org/icons/opencontainersinitiative.svg');
+}
+
+/* Open Source Initiative -> opensourceinitiative.svg */
+article a[href*='opensource.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/opensourceinitiative.svg');
+  mask-image: url('https://simpleicons.org/icons/opensourceinitiative.svg');
+}
+
+/* OpenAI -> openai.svg */
+article a[href*='openai.com']::before,
+article a[href*='openai.org']::before,
+article a[href*='openai.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/openai.svg');
+  mask-image: url('https://simpleicons.org/icons/openai.svg');
+}
+
+/* OpenAI Gym -> openaigym.svg */
+article a[href*='github.com/openai/gym']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/openaigym.svg');
+  mask-image: url('https://simpleicons.org/icons/openaigym.svg');
+}
+
+/* OpenAPI Initiative -> openapiinitiative.svg */
+article a[href*='openapis.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/openapiinitiative.svg');
+  mask-image: url('https://simpleicons.org/icons/openapiinitiative.svg');
+}
+
+/* OpenBSD -> openbsd.svg */
+article a[href*='openbsd.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/openbsd.svg');
+  mask-image: url('https://simpleicons.org/icons/openbsd.svg');
+}
+
+/* OpenCV -> opencv.svg */
+article a[href*='opencv.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/opencv.svg');
+  mask-image: url('https://simpleicons.org/icons/opencv.svg');
+}
+
+/* OpenFaaS -> openfaas.svg */
+article a[href*='openfaas.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/openfaas.svg');
+  mask-image: url('https://simpleicons.org/icons/openfaas.svg');
+}
+
+/* OpenGL -> opengl.svg */
+article a[href*='opengl.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/opengl.svg');
+  mask-image: url('https://simpleicons.org/icons/opengl.svg');
+}
+
+/* OpenID -> openid.svg */
+article a[href*='openid.net']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/openid.svg');
+  mask-image: url('https://simpleicons.org/icons/openid.svg');
+}
+
+/* OpenJDK -> openjdk.svg */
+article a[href*='openjdk.java.net']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/openjdk.svg');
+  mask-image: url('https://simpleicons.org/icons/openjdk.svg');
+}
+
+/* Openlayers -> openlayers.svg */
+article a[href*='openlayers.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/openlayers.svg');
+  mask-image: url('https://simpleicons.org/icons/openlayers.svg');
+}
+
+/* OpenMined -> openmined.svg */
+article a[href*='openmined.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/openmined.svg');
+  mask-image: url('https://simpleicons.org/icons/openmined.svg');
+}
+
+/* OpenNebula -> opennebula.svg */
+article a[href*='opennebula.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/opennebula.svg');
+  mask-image: url('https://simpleicons.org/icons/opennebula.svg');
+}
+
+/* OpenProject -> openproject.svg */
+article a[href*='openproject.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/openproject.svg');
+  mask-image: url('https://simpleicons.org/icons/openproject.svg');
+}
+
+/* OpenSea -> opensea.svg */
+article a[href*='opensea.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/opensea.svg');
+  mask-image: url('https://simpleicons.org/icons/opensea.svg');
+}
+
+/* OpenSearch -> opensearch.svg */
+article a[href*='opensearch.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/opensearch.svg');
+  mask-image: url('https://simpleicons.org/icons/opensearch.svg');
+}
+
+/* OpenSSL -> openssl.svg */
+article a[href*='openssl.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/openssl.svg');
+  mask-image: url('https://simpleicons.org/icons/openssl.svg');
+}
+
+/* OpenStack -> openstack.svg */
+article a[href*='openstack.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/openstack.svg');
+  mask-image: url('https://simpleicons.org/icons/openstack.svg');
+}
+
+/* OpenStreetMap -> openstreetmap.svg */
+article a[href*='openstreetmap.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/openstreetmap.svg');
+  mask-image: url('https://simpleicons.org/icons/openstreetmap.svg');
+}
+
+/* openSUSE -> opensuse.svg */
+article a[href*='opensuse.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/opensuse.svg');
+  mask-image: url('https://simpleicons.org/icons/opensuse.svg');
+}
+
+/* OpenTelemetry -> opentelemetry.svg */
+article a[href*='opentelemetry.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/opentelemetry.svg');
+  mask-image: url('https://simpleicons.org/icons/opentelemetry.svg');
+}
+
+/* Openverse -> openverse.svg */
+article a[href*='openverse.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/openverse.svg');
+  mask-image: url('https://simpleicons.org/icons/openverse.svg');
+}
+
+/* OpenVPN -> openvpn.svg */
+article a[href*='openvpn.net']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/openvpn.svg');
+  mask-image: url('https://simpleicons.org/icons/openvpn.svg');
+}
+
+/* OpenWrt -> openwrt.svg */
+article a[href*='openwrt.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/openwrt.svg');
+  mask-image: url('https://simpleicons.org/icons/openwrt.svg');
+}
+
+/* OpenZeppelin -> openzeppelin.svg */
+article a[href*='openzeppelin.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/openzeppelin.svg');
+  mask-image: url('https://simpleicons.org/icons/openzeppelin.svg');
+}
+
+/* OpenZFS -> openzfs.svg */
+article a[href*='openzfs.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/openzfs.svg');
+  mask-image: url('https://simpleicons.org/icons/openzfs.svg');
+}
+
+/* Opera -> opera.svg */
+article a[href*='opera.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/opera.svg');
+  mask-image: url('https://simpleicons.org/icons/opera.svg');
+}
+
+/* OPNSense -> opnsense.svg */
+article a[href*='opnsense.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/opnsense.svg');
+  mask-image: url('https://simpleicons.org/icons/opnsense.svg');
+}
+
+/* Opsgenie -> opsgenie.svg */
+article a[href*='opsgenie.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/opsgenie.svg');
+  mask-image: url('https://simpleicons.org/icons/opsgenie.svg');
+}
+
+/* OpsLevel -> opslevel.svg */
+article a[href*='opslevel.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/opslevel.svg');
+  mask-image: url('https://simpleicons.org/icons/opslevel.svg');
+}
+
+/* Oracle -> oracle.svg */
+article a[href*='oracle.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/oracle.svg');
+  mask-image: url('https://simpleicons.org/icons/oracle.svg');
+}
+
+/* ORCID -> orcid.svg */
+article a[href*='orcid.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/orcid.svg');
+  mask-image: url('https://simpleicons.org/icons/orcid.svg');
+}
+
+/* Org -> org.svg */
+article a[href*='orgmode.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/org.svg');
+  mask-image: url('https://simpleicons.org/icons/org.svg');
+}
+
+/* Origin -> origin.svg */
+article a[href*='origin.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/origin.svg');
+  mask-image: url('https://simpleicons.org/icons/origin.svg');
+}
+
+/* Osano -> osano.svg */
+article a[href*='osano.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/osano.svg');
+  mask-image: url('https://simpleicons.org/icons/osano.svg');
+}
+
+/* Oshkosh -> oshkosh.svg */
+article a[href*='oshkosh.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/oshkosh.svg');
+  mask-image: url('https://simpleicons.org/icons/oshkosh.svg');
+}
+
+/* OSMC -> osmc.svg */
+article a[href*='osmc.tv']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/osmc.svg');
+  mask-image: url('https://simpleicons.org/icons/osmc.svg');
+}
+
+/* osu! -> osu.svg */
+article a[href*='osu.ppy.sh']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/osu.svg');
+  mask-image: url('https://simpleicons.org/icons/osu.svg');
+}
+
+/* Otto -> otto.svg */
+article a[href*='otto.de']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/otto.svg');
+  mask-image: url('https://simpleicons.org/icons/otto.svg');
+}
+
+/* Overcast -> overcast.svg */
+article a[href*='overcast.fm']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/overcast.svg');
+  mask-image: url('https://simpleicons.org/icons/overcast.svg');
+}
+
+/* Overleaf -> overleaf.svg */
+article a[href*='overleaf.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/overleaf.svg');
+  mask-image: url('https://simpleicons.org/icons/overleaf.svg');
+}
+
+/* OVH -> ovh.svg */
+article a[href*='ovh.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/ovh.svg');
+  mask-image: url('https://simpleicons.org/icons/ovh.svg');
+}
+
+/* OWASP -> owasp.svg */
+article a[href*='owasp.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/owasp.svg');
+  mask-image: url('https://simpleicons.org/icons/owasp.svg');
+}
+
+/* Oxygen -> oxygen.svg */
+article a[href*='oxygenxml.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/oxygen.svg');
+  mask-image: url('https://simpleicons.org/icons/oxygen.svg');
+}
+
+/* OYO -> oyo.svg */
+article a[href*='oyorooms.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/oyo.svg');
+  mask-image: url('https://simpleicons.org/icons/oyo.svg');
+}

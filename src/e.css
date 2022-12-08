@@ -1,0 +1,431 @@
+/* E.Leclerc -> edotleclerc.svg */
+article a[href*='e-leclerc.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/edotleclerc.svg');
+  mask-image: url('https://simpleicons.org/icons/edotleclerc.svg');
+}
+
+/* E3 -> e3.svg */
+article a[href*='e3expo.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/e3.svg');
+  mask-image: url('https://simpleicons.org/icons/e3.svg');
+}
+
+/* EA -> ea.svg */
+article a[href*='ea.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/ea.svg');
+  mask-image: url('https://simpleicons.org/icons/ea.svg');
+}
+
+/* Eagle -> eagle.svg */
+article a[href*='eagle.cool']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/eagle.svg');
+  mask-image: url('https://simpleicons.org/icons/eagle.svg');
+}
+
+/* easyJet -> easyjet.svg */
+article a[href*='easyjet.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/easyjet.svg');
+  mask-image: url('https://simpleicons.org/icons/easyjet.svg');
+}
+
+/* eBay -> ebay.svg */
+article a[href*='ebay.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/ebay.svg');
+  mask-image: url('https://simpleicons.org/icons/ebay.svg');
+}
+
+/* Eclipse Che -> eclipseche.svg */
+article a[href*='eclipse.org/che']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/eclipseche.svg');
+  mask-image: url('https://simpleicons.org/icons/eclipseche.svg');
+}
+
+/* Eclipse IDE -> eclipseide.svg */
+article a[href*='eclipse.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/eclipseide.svg');
+  mask-image: url('https://simpleicons.org/icons/eclipseide.svg');
+}
+
+/* Eclipse Jetty -> eclipsejetty.svg */
+article a[href*='eclipse.org/jetty']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/eclipsejetty.svg');
+  mask-image: url('https://simpleicons.org/icons/eclipsejetty.svg');
+}
+
+/* Eclipse Mosquitto -> eclipsemosquitto.svg */
+article a[href*='mosquitto.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/eclipsemosquitto.svg');
+  mask-image: url('https://simpleicons.org/icons/eclipsemosquitto.svg');
+}
+
+/* Eclipse Vert.x -> eclipsevertdotx.svg */
+article a[href*='vertx.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/eclipsevertdotx.svg');
+  mask-image: url('https://simpleicons.org/icons/eclipsevertdotx.svg');
+}
+
+/* EDEKA -> edeka.svg */
+article a[href*='edeka.de']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/edeka.svg');
+  mask-image: url('https://simpleicons.org/icons/edeka.svg');
+}
+
+/* EditorConfig -> editorconfig.svg */
+article a[href*='editorconfig.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/editorconfig.svg');
+  mask-image: url('https://simpleicons.org/icons/editorconfig.svg');
+}
+
+/* edX -> edx.svg */
+article a[href*='edx.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/edx.svg');
+  mask-image: url('https://simpleicons.org/icons/edx.svg');
+}
+
+/* egghead -> egghead.svg */
+article a[href*='egghead.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/egghead.svg');
+  mask-image: url('https://simpleicons.org/icons/egghead.svg');
+}
+
+/* Egnyte -> egnyte.svg */
+article a[href*='egnyte.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/egnyte.svg');
+  mask-image: url('https://simpleicons.org/icons/egnyte.svg');
+}
+
+/* Eight Sleep -> eightsleep.svg */
+article a[href*='eightsleep.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/eightsleep.svg');
+  mask-image: url('https://simpleicons.org/icons/eightsleep.svg');
+}
+
+/* El Jueves -> eljueves.svg */
+article a[href*='eljueves.es']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/eljueves.svg');
+  mask-image: url('https://simpleicons.org/icons/eljueves.svg');
+}
+
+/* Elastic -> elastic.svg */
+article a[href*='elastic.co']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/elastic.svg');
+  mask-image: url('https://simpleicons.org/icons/elastic.svg');
+}
+
+/* Elastic Cloud -> elasticcloud.svg */
+article a[href*='elastic.co/cloud']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/elasticcloud.svg');
+  mask-image: url('https://simpleicons.org/icons/elasticcloud.svg');
+}
+
+/* Elastic Stack -> elasticstack.svg */
+article a[href*='elastic.co/elastic-stack']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/elasticstack.svg');
+  mask-image: url('https://simpleicons.org/icons/elasticstack.svg');
+}
+
+/* Elasticsearch -> elasticsearch.svg */
+article a[href*='elastic.co/elasticsearch']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/elasticsearch.svg');
+  mask-image: url('https://simpleicons.org/icons/elasticsearch.svg');
+}
+
+/* Electron -> electron.svg */
+article a[href*='electronjs.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/electron.svg');
+  mask-image: url('https://simpleicons.org/icons/electron.svg');
+}
+
+/* Electron Fiddle -> electronfiddle.svg */
+article a[href*='electronjs.org/fiddle']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/electronfiddle.svg');
+  mask-image: url('https://simpleicons.org/icons/electronfiddle.svg');
+}
+
+/* electron-builder -> electronbuilder.svg */
+article a[href*='electron.build']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/electronbuilder.svg');
+  mask-image: url('https://simpleicons.org/icons/electronbuilder.svg');
+}
+
+/* Element -> element.svg */
+article a[href*='element.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/element.svg');
+  mask-image: url('https://simpleicons.org/icons/element.svg');
+}
+
+/* elementary -> elementary.svg */
+article a[href*='elementary.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/elementary.svg');
+  mask-image: url('https://simpleicons.org/icons/elementary.svg');
+}
+
+/* Elementor -> elementor.svg */
+article a[href*='elementor.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/elementor.svg');
+  mask-image: url('https://simpleicons.org/icons/elementor.svg');
+}
+
+/* Eleventy -> eleventy.svg */
+article a[href*='11ty.dev']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/eleventy.svg');
+  mask-image: url('https://simpleicons.org/icons/eleventy.svg');
+}
+
+/* Elgato -> elgato.svg */
+article a[href*='elgato.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/elgato.svg');
+  mask-image: url('https://simpleicons.org/icons/elgato.svg');
+}
+
+/* Elixir -> elixir.svg */
+article a[href*='elixir-lang.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/elixir.svg');
+  mask-image: url('https://simpleicons.org/icons/elixir.svg');
+}
+
+/* Ello -> ello.svg */
+article a[href*='ello.co']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/ello.svg');
+  mask-image: url('https://simpleicons.org/icons/ello.svg');
+}
+
+/* Elm -> elm.svg */
+article a[href*='elm-lang.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/elm.svg');
+  mask-image: url('https://simpleicons.org/icons/elm.svg');
+}
+
+/* Elsevier -> elsevier.svg */
+article a[href*='elsevier.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/elsevier.svg');
+  mask-image: url('https://simpleicons.org/icons/elsevier.svg');
+}
+
+/* Embarcadero -> embarcadero.svg */
+article a[href*='embarcadero.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/embarcadero.svg');
+  mask-image: url('https://simpleicons.org/icons/embarcadero.svg');
+}
+
+/* Ember.js -> emberdotjs.svg */
+article a[href*='emberjs.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/emberdotjs.svg');
+  mask-image: url('https://simpleicons.org/icons/emberdotjs.svg');
+}
+
+/* Emby -> emby.svg */
+article a[href*='emby.media']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/emby.svg');
+  mask-image: url('https://simpleicons.org/icons/emby.svg');
+}
+
+/* Emirates -> emirates.svg */
+article a[href*='emirates.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/emirates.svg');
+  mask-image: url('https://simpleicons.org/icons/emirates.svg');
+}
+
+/* Emlakjet -> emlakjet.svg */
+article a[href*='emlakjet.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/emlakjet.svg');
+  mask-image: url('https://simpleicons.org/icons/emlakjet.svg');
+}
+
+/* Empire Kred -> empirekred.svg */
+article a[href*='empire.kred']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/empirekred.svg');
+  mask-image: url('https://simpleicons.org/icons/empirekred.svg');
+}
+
+/* Engadget -> engadget.svg */
+article a[href*='engadget.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/engadget.svg');
+  mask-image: url('https://simpleicons.org/icons/engadget.svg');
+}
+
+/* Enpass -> enpass.svg */
+article a[href*='enpass.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/enpass.svg');
+  mask-image: url('https://simpleicons.org/icons/enpass.svg');
+}
+
+/* EnterpriseDB -> enterprisedb.svg */
+article a[href*='enterprisedb.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/enterprisedb.svg');
+  mask-image: url('https://simpleicons.org/icons/enterprisedb.svg');
+}
+
+/* Envato -> envato.svg */
+article a[href*='envato.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/envato.svg');
+  mask-image: url('https://simpleicons.org/icons/envato.svg');
+}
+
+/* EPEL -> epel.svg */
+article a[href*='fedoraproject.org/wiki/EPEL']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/epel.svg');
+  mask-image: url('https://simpleicons.org/icons/epel.svg');
+}
+
+/* Epic Games -> epicgames.svg */
+article a[href*='epicgames.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/epicgames.svg');
+  mask-image: url('https://simpleicons.org/icons/epicgames.svg');
+}
+
+/* Epson -> epson.svg */
+article a[href*='epson.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/epson.svg');
+  mask-image: url('https://simpleicons.org/icons/epson.svg');
+}
+
+/* Equinix Metal -> equinixmetal.svg */
+article a[href*='metal.equinix.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/equinixmetal.svg');
+  mask-image: url('https://simpleicons.org/icons/equinixmetal.svg');
+}
+
+/* Erlang -> erlang.svg */
+article a[href*='erlang.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/erlang.svg');
+  mask-image: url('https://simpleicons.org/icons/erlang.svg');
+}
+
+/* esbuild -> esbuild.svg */
+article a[href*='esbuild.github.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/esbuild.svg');
+  mask-image: url('https://simpleicons.org/icons/esbuild.svg');
+}
+
+/* ESEA -> esea.svg */
+article a[href*='play.esea.net']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/esea.svg');
+  mask-image: url('https://simpleicons.org/icons/esea.svg');
+}
+
+/* ESLGaming -> eslgaming.svg */
+article a[href*='eslgaming.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/eslgaming.svg');
+  mask-image: url('https://simpleicons.org/icons/eslgaming.svg');
+}
+
+/* ESLint -> eslint.svg */
+article a[href*='eslint.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/eslint.svg');
+  mask-image: url('https://simpleicons.org/icons/eslint.svg');
+}
+
+/* ESPHome -> esphome.svg */
+article a[href*='esphome.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/esphome.svg');
+  mask-image: url('https://simpleicons.org/icons/esphome.svg');
+}
+
+/* Espressif -> espressif.svg */
+article a[href*='espressif.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/espressif.svg');
+  mask-image: url('https://simpleicons.org/icons/espressif.svg');
+}
+
+/* etcd -> etcd.svg */
+article a[href*='etcd.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/etcd.svg');
+  mask-image: url('https://simpleicons.org/icons/etcd.svg');
+}
+
+/* Ethereum -> ethereum.svg */
+article a[href*='ethereum.org']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/ethereum.svg');
+  mask-image: url('https://simpleicons.org/icons/ethereum.svg');
+}
+
+/* Ethiopian Airlines -> ethiopianairlines.svg */
+article a[href*='ethiopianairlines.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/ethiopianairlines.svg');
+  mask-image: url('https://simpleicons.org/icons/ethiopianairlines.svg');
+}
+
+/* Etihad Airways -> etihadairways.svg */
+article a[href*='etihad.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/etihadairways.svg');
+  mask-image: url('https://simpleicons.org/icons/etihadairways.svg');
+}
+
+/* Etsy -> etsy.svg */
+article a[href*='etsy.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/etsy.svg');
+  mask-image: url('https://simpleicons.org/icons/etsy.svg');
+}
+
+/* Event Store -> eventstore.svg */
+article a[href*='eventstore.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/eventstore.svg');
+  mask-image: url('https://simpleicons.org/icons/eventstore.svg');
+}
+
+/* Eventbrite -> eventbrite.svg */
+article a[href*='eventbrite.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/eventbrite.svg');
+  mask-image: url('https://simpleicons.org/icons/eventbrite.svg');
+}
+
+/* Evernote -> evernote.svg */
+article a[href*='evernote.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/evernote.svg');
+  mask-image: url('https://simpleicons.org/icons/evernote.svg');
+}
+
+/* Exercism -> exercism.svg */
+article a[href*='exercism.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/exercism.svg');
+  mask-image: url('https://simpleicons.org/icons/exercism.svg');
+}
+
+/* Exordo -> exordo.svg */
+article a[href*='exordo.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/exordo.svg');
+  mask-image: url('https://simpleicons.org/icons/exordo.svg');
+}
+
+/* Exoscale -> exoscale.svg */
+article a[href*='exoscale.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/exoscale.svg');
+  mask-image: url('https://simpleicons.org/icons/exoscale.svg');
+}
+
+/* Expensify -> expensify.svg */
+article a[href*='expensify.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/expensify.svg');
+  mask-image: url('https://simpleicons.org/icons/expensify.svg');
+}
+
+/* Experts Exchange -> expertsexchange.svg */
+article a[href*='expertsexchange.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/expertsexchange.svg');
+  mask-image: url('https://simpleicons.org/icons/expertsexchange.svg');
+}
+
+/* Expo -> expo.svg */
+article a[href*='expo.io']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/expo.svg');
+  mask-image: url('https://simpleicons.org/icons/expo.svg');
+}
+
+/* Express -> express.svg */
+article a[href*='expressjs.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/express.svg');
+  mask-image: url('https://simpleicons.org/icons/express.svg');
+}
+
+/* ExpressVPN -> expressvpn.svg */
+article a[href*='expressvpn.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/expressvpn.svg');
+  mask-image: url('https://simpleicons.org/icons/expressvpn.svg');
+}
+
+/* EyeEm -> eyeem.svg */
+article a[href*='eyeem.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/eyeem.svg');
+  mask-image: url('https://simpleicons.org/icons/eyeem.svg');
+}

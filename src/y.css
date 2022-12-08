@@ -1,0 +1,102 @@
+/* Y Combinator -> ycombinator.svg */
+article a[href*='ycombinator.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/ycombinator.svg');
+  mask-image: url('https://simpleicons.org/icons/ycombinator.svg');
+}
+
+/* Yahoo! -> yahoo.svg */
+article a[href*='yahoo.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/yahoo.svg');
+  mask-image: url('https://simpleicons.org/icons/yahoo.svg');
+}
+
+/* Yale -> yale.svg */
+article a[href*='yale.edu']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/yale.svg');
+  mask-image: url('https://simpleicons.org/icons/yale.svg');
+}
+
+/* Yamaha Corporation -> yamahacorporation.svg */
+article a[href*='yamaha.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/yamahacorporation.svg');
+  mask-image: url('https://simpleicons.org/icons/yamahacorporation.svg');
+}
+
+/* Yamaha Motor Corporation -> yamahamotorcorporation.svg */
+article a[href*='yamaha-motor.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/yamahamotorcorporation.svg');
+  mask-image: url('https://simpleicons.org/icons/yamahamotorcorporation.svg');
+}
+
+/* Yammer -> yammer.svg */
+article a[href*='yammer.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/yammer.svg');
+  mask-image: url('https://simpleicons.org/icons/yammer.svg');
+}
+
+/* Yarn -> yarn.svg */
+article a[href*='yarnpkg.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/yarn.svg');
+  mask-image: url('https://simpleicons.org/icons/yarn.svg');
+}
+
+/* Yelp -> yelp.svg */
+article a[href*='yelp.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/yelp.svg');
+  mask-image: url('https://simpleicons.org/icons/yelp.svg');
+}
+
+/* Yoast -> yoast.svg */
+article a[href*='yoast.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/yoast.svg');
+  mask-image: url('https://simpleicons.org/icons/yoast.svg');
+}
+
+/* YOLO -> yolo.svg */
+article a[href*='yolo.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/yolo.svg');
+  mask-image: url('https://simpleicons.org/icons/yolo.svg');
+}
+
+/* YourTravel.TV -> yourtraveldottv.svg */
+article a[href*='yourtravel.tv']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/yourtraveldottv.svg');
+  mask-image: url('https://simpleicons.org/icons/yourtraveldottv.svg');
+}
+
+/* YouTube -> youtube.svg */
+article a[href*='youtube.com']::before,
+article a[href*='youtu.be']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/youtube.svg');
+  mask-image: url('https://simpleicons.org/icons/youtube.svg');
+}
+
+/* YouTube Gaming -> youtubegaming.svg */
+article a[href*='youtube.com/gaming']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/youtubegaming.svg');
+  mask-image: url('https://simpleicons.org/icons/youtubegaming.svg');
+}
+
+/* YouTube Music -> youtubemusic.svg */
+article a[href*='music.youtube.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/youtubemusic.svg');
+  mask-image: url('https://simpleicons.org/icons/youtubemusic.svg');
+}
+
+/* YouTube Studio -> youtubestudio.svg */
+article a[href*='studio.youtube.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/youtubestudio.svg');
+  mask-image: url('https://simpleicons.org/icons/youtubestudio.svg');
+}
+
+/* YouTube TV -> youtubetv.svg */
+article a[href*='tv.youtube.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/youtubetv.svg');
+  mask-image: url('https://simpleicons.org/icons/youtubetv.svg');
+}
+
+/* Yubico -> yubico.svg */
+article a[href*='yubico.com']::before {
+  -webkit-mask-image: url('https://simpleicons.org/icons/yubico.svg');
+  mask-image: url('https://simpleicons.org/icons/yubico.svg');
+}
