@@ -2457,3 +2457,5 @@ for file in os.listdir("icons"):
             )
         with open(source_file, "w") as f:
             f.write(links)
+
+
