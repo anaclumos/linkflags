@@ -36,12 +36,12 @@ a:has(i)::before {
 }
 
 * {
-  --linkflags-color: #57606a;
+  --linkflags-color: #333b44;
 }
 
 @media (prefers-color-scheme: dark) {
   * {
-    --linkflags-color: #8b949e;
+    --linkflags-color: #9cadc0;
   }
 }
 
