@@ -35,6 +35,16 @@ a:has(i)::before {
   content: none !important;
 }
 
+* {
+  --linkflags-color: #57606a;
+}
+
+@media (prefers-color-scheme: dark) {
+  * {
+    --linkflags-color: #8b949e;
+  }
+}
+
 article a[href^='http']::before {
   background-color: var(--linkflags-color);
   height: 1.25em;
