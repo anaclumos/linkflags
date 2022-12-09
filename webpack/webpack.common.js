@@ -8,7 +8,7 @@ module.exports = {
     content: path.join(srcDir, 'content.ts'),
   },
   output: {
-    path: path.join(__dirname, '../dist'),
+    path: path.join(__dirname, '../release'),
     filename: '[name].js',
   },
   optimization: {

@@ -1,7 +1,7 @@
 {
-  "name": "chrome-extension-typescript-starter",
+  "name": "linkflags",
   "version": "1.0.0",
-  "description": "chrome-extension-typescript-starter",
+  "description": "linkflags",
   "main": "index.js",
   "scripts": {
     "watch": "webpack --config webpack/webpack.dev.js --watch",
@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chibat/chrome-extension-typescript-starter.git"
+    "url": "https://github.com/anaclumos/linkflags.git"
   },
   "dependencies": {
     "react": "^17.0.1",
