@@ -2,7 +2,6 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 const devMode = process.env.NODE_ENV !== 'production'
 const path = require('path')
 const srcDir = path.join(__dirname, '..', 'src')
-
 module.exports = {
   entry: {
     content: path.join(srcDir, 'content.ts'),

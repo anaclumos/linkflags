@@ -4,5 +4,4 @@ const inject = () => {
   style.textContent = styles
   document.head.appendChild(style)
 }
-
 inject()

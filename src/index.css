@@ -25,7 +25,6 @@
 @import url('icons/y.css');
 @import url('icons/z.css');
 @import url('icons/extra.css');
-
 a:has(img)::after,
 a:has(img)::before,
 a:has(i)::after,
@@ -34,17 +33,19 @@ a:has(i)::before {
   mask-image: none !important;
   content: none !important;
 }
-
 * {
-  --linkflags-color: #333b44;
+  --linkflags-color: #777799;
 }
-
 @media (prefers-color-scheme: dark) {
   * {
     --linkflags-color: #9cadc0;
   }
 }
-
+@media (prefers-color-scheme: light) {
+  * {
+    --linkflags-color: #333b44;
+  }
+}
 article a[href^='http']::before {
   background-color: var(--linkflags-color);
   height: 1.25em;
@@ -56,7 +57,6 @@ article a[href^='http']::before {
   vertical-align: middle !important;
   mask-repeat: no-repeat;
 }
-
 article a[href^='http']::after {
   content: '\00a0';
   background-color: var(--linkflags-color);
