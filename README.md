@@ -14,3 +14,13 @@
 ## Credit
 
 Template from [chibat/chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter).
+
+## Installing
+
+1. Copy this code: [raw.githubusercontent.com/anaclumos/linkflags/main/release/content.js](https://raw.githubusercontent.com/anaclumos/linkflags/main/release/content.js)
+1. Create a new Boost → Inject → All Websites → and paste the code.
+1. Enjoy!
+
+## Note
+
+It's 5MB in JavaScript, but everything's _local_, so it runs super fast ⚡️ Don't worry!
