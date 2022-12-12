@@ -11,9 +11,9 @@
 - [Site Search & Discovery powered by AI | Algolia](https://www.algolia.com/)
 - [Node.js](https://nodejs.org/en/)
 
-## Credit
+## Note
 
-Template from [chibat/chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter).
+It's 5MB in JavaScript, but everything's _local_, so it runs super fast ⚡️ Don't worry!
 
 ## Installing
 
@@ -21,6 +21,7 @@ Template from [chibat/chrome-extension-typescript-starter](https://github.com/ch
 1. Create a new Boost → Inject → All Websites → and paste the code.
 1. Enjoy!
 
-## Note
+## Credit
 
-It's 5MB in JavaScript, but everything's _local_, so it runs super fast ⚡️ Don't worry!
+- Template from [chibat/chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter).
+- Icons from [simple-icons/simple-icons: SVG icons for popular brands](https://github.com/simple-icons/simple-icons)
